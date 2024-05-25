@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\college\\SW\\SW_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08201C09-9799-471B-BAE6-2C1183C660AB}|SW_Project.csproj|e:\\college\\sw\\sw_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08201C09-9799-471B-BAE6-2C1183C660AB}|SW_Project.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08201C09-9799-471B-BAE6-2C1183C660AB}|SW_Project.csproj|e:\\college\\sw\\sw_project\\access_all_forms_and_reports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08201C09-9799-471B-BAE6-2C1183C660AB}|SW_Project.csproj|solutionrelative:access_all_forms_and_reports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08201C09-9799-471B-BAE6-2C1183C660AB}|SW_Project.csproj|e:\\college\\sw\\sw_project\\access_all_forms_and_reports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{08201C09-9799-471B-BAE6-2C1183C660AB}|SW_Project.csproj|solutionrelative:access_all_forms_and_reports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Access_all_forms_and_reports.cs",
+              "DocumentMoniker": "E:\\college\\SW\\SW_Project\\Access_all_forms_and_reports.cs",
+              "RelativeDocumentMoniker": "Access_all_forms_and_reports.cs",
+              "ToolTip": "E:\\college\\SW\\SW_Project\\Access_all_forms_and_reports.cs",
+              "RelativeToolTip": "Access_all_forms_and_reports.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAgwC4AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T22:21:55.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Access_all_forms_and_reports.cs [Design]",
+              "DocumentMoniker": "E:\\college\\SW\\SW_Project\\Access_all_forms_and_reports.cs",
+              "RelativeDocumentMoniker": "Access_all_forms_and_reports.cs",
+              "ToolTip": "E:\\college\\SW\\SW_Project\\Access_all_forms_and_reports.cs [Design]",
+              "RelativeToolTip": "Access_all_forms_and_reports.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T22:19:09.865Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\college\\SW\\SW_Project\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\college\\SW\\SW_Project\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T07:03:57.458Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
